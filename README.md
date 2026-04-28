@@ -18,10 +18,12 @@ CrisisConnect is an AI-powered disaster response coordination platform that anal
 - Google Cloud Run
 - Docker
 - HTML/CSS/JS
-- Gemini / Vertex AI
+- Google AI / Gemini-ready logic 
+
 
 ## Live Prototype
-[Add Cloud Run URL here]
+https://crisisconnect-185468326303.asia-south1.run.app/
+
 
 ## GitHub Repository
 https://github.com/ramesh-codes/Crisis-Connect
