@@ -1,26 +1,31 @@
-
-cat > README.md <<EOF
 # CrisisConnect
 
-AI-powered disaster response coordination platform built for Google Solution Challenge.
+## Problem Statement
+Disaster response is often delayed due to fragmented communication and poor coordination.
+
+## Solution Overview
+CrisisConnect is an AI-powered disaster response coordination platform that analyzes crisis reports, estimates severity, recommends resources, and supports emergency response decisions.
 
 ## Features
 - Disaster severity assessment
-- Resource recommendation
-- Dynamic emergency response guidance
-- Live alert dashboard
-- Cloud deployed on Google Cloud Run
+- Resource recommendations
+- Dynamic emergency guidance
+- Alert dashboard
+- Cloud deployment on Google Cloud Run
 
 ## Tech Stack
 - Python Flask
 - Google Cloud Run
 - Docker
-- Gemini / Vertex AI (planned/integrated)
-- HTML/CSS/JS frontend
+- HTML/CSS/JS
+- Gemini / Vertex AI
 
-## Run locally
+## Live Prototype
+[Add Cloud Run URL here]
+
+## GitHub Repository
+https://github.com/ramesh-codes/Crisis-Connect
+
+## Run Locally
+```bash
 python app.py
-
-## Deployment
-Deployed on Google Cloud Run
-EOF
